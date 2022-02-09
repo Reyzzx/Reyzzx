@@ -1,5 +1,4 @@
-<h1 align="center">こんにちは〜<alt="hi"><br>Hi!! Welcome..</h1>
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<h1 align="center">こんにちは〜<img src="https://ibb.co/hLTynjH" width="40px"alt="hi"><br>Hi!! Welcome..</h1>
 
 :page_with_curl: I'm currently learning:
 - Javascript 
@@ -7,7 +6,7 @@
 - Typescript
 - HTML/CSS
 
-<img align="right" alt="GIF" height="170px" src="https://ibb.co/hLTynjH" />
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ### Spotify Playing 🎧
 
