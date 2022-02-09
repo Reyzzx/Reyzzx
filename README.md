@@ -1,4 +1,4 @@
-<h1 align="center">こんにちは〜<alt="hi"><br>Hi!! Welcome..<br>img src="https://i.ibb.co/8NQ0Rp2/unnamed.gif" width="100px" </h1>
+<h1 align="center">こんにちは〜<alt="hi"><br>Hi!! Welcome..<br><img src="https://i.ibb.co/8NQ0Rp2/unnamed.gif" width="100px" ></h1>
 
 :page_with_curl: I'm currently learning:
 - Javascript 
