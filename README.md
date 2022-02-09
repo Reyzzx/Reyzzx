@@ -15,10 +15,10 @@
 
 ## GitHub Statistics
 
-![Reyc rey github stats](https://github-readme-stats.vercel.app/api?username=vynkevin222&theme=chartreuse-dark&count_private=true&show_icons=true&cache_seconds=1800)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vynkevin222&theme=chartreuse-dark&layout=compact)](https://github.com/vynkevin222/vynkevin222)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vynZGaming&repo=Apinya&theme=blue-green)](https://github.com/vynkevin222/vynkevin222)
-<P align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vynkevin222&theme=chartreuse-dark">
+![Reyc rey github stats](https://github-readme-stats.vercel.app/api?username=fvckrey&theme=chartreuse-dark&count_private=true&show_icons=true&cache_seconds=1800)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvckrey&theme=chartreuse-dark&layout=compact)](https://github.com/vynkevin222/vynkevin222)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vynZGaming&repo=Apinya&theme=blue-green)](https://github.com/fvckrey/fvckrey)
+<P align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fvckrey&theme=chartreuse-dark">
 
 ## TROPHIES
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=fvckrey&theme=chartreuse-dark&row=3&column=3"/>
