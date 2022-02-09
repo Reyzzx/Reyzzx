@@ -15,74 +15,67 @@
 
 ## GitHub Statistics
 
-![Sneazys Vyn github stats](https://github-readme-stats.vercel.app/api?username=vynkevin222&theme=chartreuse-dark&count_private=true&show_icons=true&cache_seconds=1800)
+![Reyc rey github stats](https://github-readme-stats.vercel.app/api?username=vynkevin222&theme=chartreuse-dark&count_private=true&show_icons=true&cache_seconds=1800)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vynkevin222&theme=chartreuse-dark&layout=compact)](https://github.com/vynkevin222/vynkevin222)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vynZGaming&repo=Apinya&theme=blue-green)](https://github.com/vynkevin222/vynkevin222)
 <P align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vynkevin222&theme=chartreuse-dark">
 
 ## TROPHIES
-<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=vynkevin222&theme=chartreuse-dark&row=3&column=3"/>
+<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=fvckrey&theme=chartreuse-dark&row=3&column=3"/>
 
 ```TypeScript
 import { contact, User, About } from './Instagram'
 
 export default class ME implements User {
-    public static firstName = 'Kevin'
-    public static lastName = 'Paratama'
-    public static username = 'Sneazy'
-    public static website = 'https://aboutmevin.herokuapp.com'
-    public static aliases = ['SNEAZY']
+    public static firstName = 'Rey'
+    public static lastName = 'Yo'
+    public static username = 'fvckrey'
+    public static website = '-'
+    public static aliases = ['FVCKREY']
     public static skills = ['HTML', 'CSS', 'JavaScript', 'NodeJS', 'Python']
     public static info = {
         age: 15,
         country: 'Indonesia',
-        city: 'Jakarta',
-        school: 'Smp_Trimulia',
+        city: 'Yogyakarta',
+        school: 'Smk Muhammadiyah 1 Yogyakarta',
         org: null,
         likes: ['JavaScript', 'Eat_Sleep', 'PlayGame'],
         hobbies: ['Coding', 'Smoke', 'Music'],
         reach: [
             {
                 name: contact.WhatsApp,
-                url: 'https://wa.me/6285732415700?text=Haii Kak Vin...'
+                url: 'https://wa.me/6285158338027?text=Haii Kak Rey...'
             },
             {
                 name: contact.Instagram,
-                url: 'https://instagram.com/ardynvyn__'
+                url: 'https://instagram.com/fvckrey'
             },
             {
                 name: contact.Telegarm,
-                url: 'https://t.me/Sneazy'
+                url: '-'
             },
             {
                 name: contact.Discord,
-                url: 'VYN [ Pro ]#2931'
+                url: 'FvckRey#9999'
             },
             {
               name: contact.github,
-              url: 'https://github.com/vynsneazy'
+              url: 'https://github.com/fvckrey'
             },
             {
               name: contact.twiter,
-              url: 'https://mobile.twitter.com/Ardiyan_Kevin'
+              url: '-'
             }
         ]
     }
     public static projects = [
         {
-            name: 'Sneazy_Bot',
-            homepage: 'https://github.com/vynsneazy',
-            repo: 'https://github.com/vynsneazy/SN',
+            name: 'reyc_Bot',
+            homepage: 'https://github.com/fvckrey',
+            repo: 'https://github.com/fvckrey/BotWa',
             language: ["JavaScript","Shell","Python", "Other"],
             maintanied: false
-        },
-        {
-            name: 'Sneazy_MD',
-            homepage: 'https://github.com/vynkevin222',
-            repo: 'https://github.com/vynkevin222/sneazy-md',
-            lenguage: ["JavaScript", "Roff"],
-            maintanied: false
-         }
+        }
     ]
 }
 ```
@@ -90,8 +83,8 @@ export default class ME implements User {
   <summary><b>Connect with me</b></summary>
   <p align="center">
     <i>Let's connect and chat! We are about to Change the World.</i><br><br>
-    <a href="https://twitter.com/sneazy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="n1ghtpe0ple420" height="30" width="40" /></a>
-    <a href="https://fb.com/sneazy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="n1ghtpe0ple420" height="30" width="40" /></a>
-    <a href="https://instagram.com/ardynvyn__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="putra.go.id" height="30" width="40" /></a>
+    <a href="-" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="n1ghtpe0ple420" height="30" width="40" /></a>
+    <a href="-" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="n1ghtpe0ple420" height="30" width="40" /></a>
+    <a href="https://instagram.com/fvckrey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="putra.go.id" height="30" width="40" /></a>
   </p>
 </details>
