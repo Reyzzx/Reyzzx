@@ -12,17 +12,6 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&redirect=true)
 
-
-## GitHub Statistics
-
-![Reyc rey github stats](https://github-readme-stats.vercel.app/api?username=fvckrey&theme=chartreuse-dark&count_private=true&show_icons=true&cache_seconds=1800)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvckrey&theme=chartreuse-dark&layout=compact)](https://github.com/vynkevin222/vynkevin222)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vynZGaming&repo=Apinya&theme=blue-green)](https://github.com/fvckrey/fvckrey)
-<P align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fvckrey&theme=chartreuse-dark">
-
-## TROPHIES
-<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=fvckrey&theme=chartreuse-dark&row=3&column=3"/>
-
 ```TypeScript
 import { contact, User, About } from './Instagram'
 
