@@ -10,6 +10,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&redirect=true)
 
+[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=fvckreyz&show_icons=true)](https://github.com/fvckreyz/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvckreyz&layout=compact)](https://github.com/fvckreyz/github-readme-stats)
+
 ```TypeScript
 import { contact, User, About } from './Instagram'
 
