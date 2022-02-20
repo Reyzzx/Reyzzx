@@ -30,7 +30,7 @@ export default class ME implements User {
         school: 'Smk Muhammadiyah 1 Yogyakarta',
         org: null,
         likes: ['JavaScript', 'Eat_Sleep', 'PlayGame'],
-        hobbies: ['Coding', 'Smoke', 'Music'],
+        hobbies: ['Coding', 'Music'],
         reach: [
             {
                 name: contact.WhatsApp,
