@@ -12,6 +12,9 @@
 
 [![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=fvckreyz&show_icons=true)](https://github.com/fvckreyz/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvckreyz&layout=compact)](https://github.com/fvckreyz/github-readme-stats)
+    
+## TROPHIES
+<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=fvckreyz&theme=chartreuse-dark&row=3&column=3"/>
 
 ```TypeScript
 import { contact, User, About } from './Instagram'
