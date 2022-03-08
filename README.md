@@ -22,7 +22,7 @@ import { contact, User, About } from './Instagram'
 export default class ME implements User {
     public static firstName = 'Rey'
     public static lastName = 'Yo'
-    public static username = 'fvckrey'
+    public static username = 'Reyzzx'
     public static website = '-'
     public static aliases = ['FVCKREY']
     public static skills = ['HTML', 'CSS', 'JavaScript', 'NodeJS', 'Python']
@@ -37,11 +37,11 @@ export default class ME implements User {
         reach: [
             {
                 name: contact.WhatsApp,
-                url: 'https://wa.me/6285158338027?text=Haii Kak Rey...'
+                url: 'https://wa.me/114849899888?text=Haii Kak Rey...'
             },
             {
                 name: contact.Instagram,
-                url: 'https://instagram.com/fvckrey'
+                url: '-'
             },
             {
                 name: contact.Telegarm,
@@ -53,7 +53,7 @@ export default class ME implements User {
             },
             {
               name: contact.github,
-              url: 'https://github.com/fvckrey'
+              url: 'https://github.com/Reyzzx'
             },
             {
               name: contact.twiter,
@@ -64,7 +64,7 @@ export default class ME implements User {
     public static projects = [
         {
             name: 'reyc_Bot',
-            homepage: 'https://github.com/fvckrey',
+            homepage: 'https://github.com/Reyzzx',
             repo: 'https://github.com/fvckrey/BotWa',
             language: ["JavaScript","Shell","Python", "Other"],
             maintanied: false
