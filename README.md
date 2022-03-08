@@ -10,8 +10,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=314iqaa5wlnytjblf2yfa4es5aly&redirect=true)
 
-[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=fvckreyz&show_icons=true)](https://github.com/fvckreyz/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvckreyz&layout=compact)](https://github.com/fvckreyz/github-readme-stats)
+[![Subranium's github stats](https://github-readme-stats.vercel.app/api?username=Reyzzx&show_icons=true)](https://github.com/fvckreyz/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reyzzx&layout=compact)](https://github.com/fvckreyz/github-readme-stats)
     
 ## TROPHIES
 <p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=fvckreyz&theme=chartreuse-dark&row=3&column=3"/>
