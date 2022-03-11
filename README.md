@@ -24,11 +24,11 @@
 import { contact, User, About } from './Instagram'
 
 export default class ME implements User {
-    public static firstName = 'Rey'
-    public static lastName = 'Yo'
+    public static firstName = 'Ra'
+    public static lastName = 'Re'
     public static username = 'Reyzzx'
     public static website = '-'
-    public static aliases = ['FVCKREY']
+    public static aliases = ['Reyzzx']
     public static skills = ['HTML', 'CSS', 'JavaScript', 'NodeJS', 'Python']
     public static info = {
         age: 15,
@@ -41,11 +41,11 @@ export default class ME implements User {
         reach: [
             {
                 name: contact.WhatsApp,
-                url: 'https://wa.me/114849899888?text=Haii Kak Rey...'
+                url: 'https://wa.me/14849899888?text=Haii Kak Rey...'
             },
             {
                 name: contact.Instagram,
-                url: '-'
+                url: '@_reyzzx'
             },
             {
                 name: contact.Telegarm,
@@ -53,7 +53,7 @@ export default class ME implements User {
             },
             {
                 name: contact.Discord,
-                url: 'FvckRey#9999'
+                url: 'Reyzzx#9999'
             },
             {
               name: contact.github,
@@ -67,11 +67,11 @@ export default class ME implements User {
     }
     public static projects = [
         {
-            name: 'reyc_Bot',
+            name: 'Ix.Bot',
             homepage: 'https://github.com/Reyzzx',
-            repo: 'https://github.com/fvckrey/BotWa',
+            repo: 'https://github.com/Reyzzx/N',
             language: ["JavaScript","Shell","Python", "Other"],
-            maintanied: false
+            maintanied: true
         }
     ]
 }
@@ -82,6 +82,6 @@ export default class ME implements User {
     <i>Let's connect and chat! We are about to Change the World.</i><br><br>
     <a href="-" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="n1ghtpe0ple420" height="30" width="40" /></a>
     <a href="-" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="n1ghtpe0ple420" height="30" width="40" /></a>
-    <a href="https://instagram.com/fvckrey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="putra.go.id" height="30" width="40" /></a>
+    <a href="https://instagram.com/_reyzzx" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="putra.go.id" height="30" width="40" /></a>
   </p>
 </details>
